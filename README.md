@@ -166,19 +166,16 @@ string name = "Jasnoor";
 ### 1. Print Array
 
 ```
-47    160    89    3782    715
+Array elements are: 1 2 30 67 17 
 ```
 
 ### 2. Search in Array
 
 ```
-Enter element-1: 72
-Enter element-2: 900
-Enter element-3: 71891
-Enter element-4: 730
-Enter element-5: 8
-Enter element to be searched: 900
-Position of 900: 2
+Enter array size: 3
+Enter array elements: 1 3 4
+Enter number to search: 5
+5 not found.
 ```
 
 ### 3. Largest & Smallest
@@ -211,6 +208,7 @@ Given string: hello
 ### 6. Concatenate Strings
 
 ```
+Concatenated: HelloWorld
 
 ```
 
