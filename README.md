@@ -66,7 +66,7 @@ A string is a sequence of characters used to represent text. In C++, they can be
 Stored as an array of characters ending with `'\0'` (null character).
 
 ```cpp
-char name[] = "Mishree";
+char name[] = "Jasnoor";
 ```
 
 #### 2. C++ `std::string` Class
@@ -74,7 +74,7 @@ char name[] = "Mishree";
 Introduced in the `<string>` header; provides more flexibility.
 
 ```cpp
-string name = "Mishree";
+string name = "Jasnoor";
 ```
 
 ---
@@ -209,8 +209,8 @@ C++
 ### 6. Display String
 
 ```
-Enter string: mishree
-Given string: mishree
+Enter string: hello
+Given string: hello
 ```
 
 ### 7. Concatenate Strings
@@ -224,7 +224,7 @@ Mishree Kalaria
 ### 8. Reverse String
 
 ```
-Enter string: 
+Enter string: Hello
 ```
 
 ### 9. Palindrome Check
@@ -234,17 +234,4 @@ Enter a string: madam
 madam is palindrome
 ```
 
-```
-Enter a string: class
-class is not a palindrome
-```
 
-```
-
----
-
-Noor, this is now **full GitHub-README style** — neat headers, code blocks, tables, and proper sectioning.  
-If you want, I can also **add a “Flowcharts & Diagrams” section** so your README looks even more professional and visually appealing.  
-That will make it stand out in a practical file submission.
-```
-# CPP-07-ARRAYS-STRINGS
