@@ -184,9 +184,10 @@ Position of 900: 2
 ### 3. Largest & Smallest
 
 ```
-11    42    50    90    7
-Largest: 90
-Smallest: 7
+Enter the elements:
+1 2 3 7
+Maximum = 7
+Minimum = 1
 ```
 
 ### 4. Sum & Average
@@ -200,28 +201,17 @@ Average = 3.25
 
 ```
 
-### 5. String Printing
-
-```
-C++
-C++
-C++
-C++
-```
-
-### 6. Display String
+### 5. Display String
 
 ```
 Enter string: hello
 Given string: hello
 ```
 
-### 7. Concatenate Strings
+### 6. Concatenate Strings
 
 ```
-Enter Firstname: Mishree
-Enter Lastname: Kalaria
-Mishree Kalaria
+
 ```
 
 ### 8. Reverse String
