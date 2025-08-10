@@ -24,7 +24,4 @@ int main() {
         }
     }
 
-Enter array size: 3
-Enter array elements: 1 3 4
-Enter number to search: 5
-5 not found.
+
