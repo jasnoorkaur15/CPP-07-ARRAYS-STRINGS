@@ -192,9 +192,12 @@ Smallest: 7
 ### 4. Sum & Average
 
 ```
-52    81    50    37    89
-Sum: 309
-Average: 61
+Enter number of elements: 4
+Enter the elements:
+1 3 4 5
+Sum = 13
+Average = 3.25
+
 ```
 
 ### 5. String Printing
